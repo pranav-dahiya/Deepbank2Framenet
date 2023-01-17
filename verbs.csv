@@ -1,0 +1,139 @@
+,counts,frames,all_frames
+rise,1036,"defaultdict(<class 'int'>, {'Change_position_on_a_scale': 1032, 'Motion_directional': 3, 'Getting_up': 1})","['Path_shape', 'Sidereal_appearance', 'Sidereal_appearance', 'Path_shape', 'Change_posture', 'Motion_directional', 'Getting_up']"
+make,771,"defaultdict(<class 'int'>, {'Manufacturing': 182, 'Intentionally_create': 72, 'Cause_change': 10, 'Causation': 488, 'Cooking_creation': 7, 'Earnings_and_losses': 3, 'Building': 4, 'Arriving': 5})","['Building', 'Intentionally_create', 'Cause_change', 'Cooking_creation', 'Manufacturing', 'Causation', 'Arriving']"
+continue,697,"defaultdict(<class 'int'>, {'Process_continue': 360, 'Activity_ongoing': 337})","['Process_continue', 'Activity_ongoing']"
+fall,674,"defaultdict(<class 'int'>, {'Change_position_on_a_scale': 660, 'Motion_directional': 14})","['Change_position_on_a_scale', 'Motion_directional', 'Conquering']"
+see,576,"defaultdict(<class 'int'>, {'Perception_experience': 373, 'Grasp': 160, 'Categorization': 16, 'Causation': 15, 'Touring': 3, 'Reference_text': 9})","['Grasp', 'Categorization', 'Perception_experience']"
+begin,570,"defaultdict(<class 'int'>, {'Process_start': 299, 'Activity_start': 271})",[]
+hold,424,"defaultdict(<class 'int'>, {'Manipulation': 283, 'Containing': 52, 'Detaining': 17, 'Opinion': 28, 'Inhibit_movement': 33, 'Defend': 11})","['Change_event_time', 'Detaining', 'Becoming_silent', 'Inhibit_movement', 'Manipulation', 'Containing', 'Change_event_time', 'Holding_off_on']"
+concern,417,"defaultdict(<class 'int'>, {'Cause_emotion': 384, 'Topic': 33})","['Cause_emotion', 'Topic']"
+need,382,"defaultdict(<class 'int'>, {'Have_as_requirement': 13, 'Needing': 272, 'Required_event': 97})",['Needing']
+consider,365,"defaultdict(<class 'int'>, {'Categorization': 145, 'Cogitation': 220})","['Cogitation', 'Categorization']"
+take,357,"defaultdict(<class 'int'>, {'Taking': 194, 'Bringing': 83, 'Have_as_requirement': 21, 'Taking_time': 44, 'Removing': 9, 'Conquering': 1, 'Ingest_substance': 5})","['Taking', 'Removing', 'Undressing', 'Taking', 'Taking_time', 'Bringing', 'Taking', 'Cause_to_fragment', 'Ingest_substance', 'Ingest_substance', 'Ride_vehicle', 'Taking_time', 'Capacity', 'Change_of_leadership', 'Conquering']"
+keep,308,"defaultdict(<class 'int'>, {'Cause_to_continue': 206, 'Storing': 44, 'Activity_ongoing': 58})","['Activity_ongoing', 'Storing', 'Avoiding', 'Cause_to_continue', 'Activity_ongoing', 'Cause_to_continue', 'Avoiding', 'Storing']"
+file,299,"defaultdict(<class 'int'>, {'Submitting_documents': 287, 'Placing': 12})",['Placing']
+lead,298,"defaultdict(<class 'int'>, {'Cotheme': 290, 'Leadership': 8})","['Causation', 'Cotheme', 'Causation', 'Leadership']"
+start,285,"defaultdict(<class 'int'>, {'Activity_start': 192, 'Process_start': 93})",[]
+leave,279,"defaultdict(<class 'int'>, {'Causation': 84, 'Quitting': 43, 'Departing': 112, 'Forming_relationships': 27, 'Giving': 5, 'Abandonment': 8})","['Forming_relationships', 'Forming_relationships', 'Quitting', 'Departing']"
+believe,278,"defaultdict(<class 'int'>, {'Opinion': 26, 'Awareness': 232, 'Trust': 7, 'Religious_belief': 12, 'Certainty': 1})","['Certainty', 'Awareness']"
+drop,254,"defaultdict(<class 'int'>, {'Change_position_on_a_scale': 253, 'Motion_directional': 1})","['Change_position_on_a_scale', 'Change_posture', 'Body_movement', 'Change_posture', 'Body_movement', 'Motion_directional', 'Change_position_on_a_scale', 'Motion_directional', 'Change_position_on_a_scale', 'Body_movement', 'Change_posture']"
+add,236,"defaultdict(<class 'int'>, {'Statement': 233, 'Adding_up': 3})",['Adding_up']
+gain,230,"defaultdict(<class 'int'>, {'Change_of_quantity_of_possession': 47, 'Change_position_on_a_scale': 140, 'Getting': 43})",['Getting']
+indicate,205,"defaultdict(<class 'int'>, {'Evidence': 136, 'Communication': 69})",[]
+feel,204,"defaultdict(<class 'int'>, {'Opinion': 93, 'Feeling': 71, 'Perception_experience': 39, 'Appearance': 1})","['Perception_experience', 'Feeling', 'Appearance', 'Perception_experience', 'Seeking', 'Perception_active']"
+write,148,"defaultdict(<class 'int'>, {'Text_creation': 81, 'Contacting': 19, 'Statement': 47, 'Spelling_and_pronouncing': 1})","['Text_creation', 'Text_creation']"
+stop,147,"defaultdict(<class 'int'>, {'Activity_stop': 68, 'Process_stop': 17, 'Thwarting': 27, 'Halt': 19, 'Preventing': 16})",[]
+ask,140,"defaultdict(<class 'int'>, {'Questioning': 122, 'Request': 18})",['Questioning']
+hurt,140,"defaultdict(<class 'int'>, {'Experience_bodily_harm': 17, 'Cause_harm': 118, 'Perception_body': 5})","['Cause_harm', 'Perception_body', 'Experience_bodily_harm', 'Cause_harm', 'Perception_body', 'Experience_bodily_harm']"
+maintain,138,"defaultdict(<class 'int'>, {'Activity_ongoing': 103, 'Statement': 35})","['Statement', 'Activity_ongoing']"
+jump,133,"defaultdict(<class 'int'>, {'Change_position_on_a_scale': 132, 'Self_motion': 1})","['Traversing', 'Self_motion', 'Change_position_on_a_scale']"
+prevent,122,"defaultdict(<class 'int'>, {'Preventing': 67, 'Thwarting': 55})",[]
+hit,116,"defaultdict(<class 'int'>, {'Cause_harm': 30, 'Impact': 55, 'Experience_bodily_harm': 31})","['Impact', 'Cause_harm', 'Cause_impact', 'Experience_bodily_harm', 'Hit_target', 'Experience_bodily_harm', 'Cause_harm', 'Hit_target', 'Cause_impact', 'Impact', 'Cause_harm', 'Hit_target', 'Cause_impact', 'Experience_bodily_harm', 'Impact']"
+value,115,"defaultdict(<class 'int'>, {'Assessing': 113, 'Judgment': 2})","['Judgment', 'Assessing']"
+hear,111,"defaultdict(<class 'int'>, {'Perception_experience': 110, 'Hearsay': 1})","['Perception_experience', 'Hearsay']"
+prove,110,"defaultdict(<class 'int'>, {'Reasoning': 38, 'Evidence': 12, 'Turning_out': 60})","['Reasoning', 'Evidence', 'Reasoning', 'Evidence', 'Evidence', 'Reasoning']"
+explain,109,"defaultdict(<class 'int'>, {'Statement': 75, 'Explaining_the_facts': 24, 'Justifying': 10})",[]
+drive,106,"defaultdict(<class 'int'>, {'Cause_motion': 52, 'Subjective_influence': 24, 'Operate_vehicle': 30})","['Cause_motion', 'Self_motion', 'Operate_vehicle', 'Bringing', 'Cause_motion']"
+eliminate,95,"defaultdict(<class 'int'>, {'Removing': 94, 'Killing': 1})","['Killing', 'Removing', 'Removing', 'Killing']"
+move,93,"defaultdict(<class 'int'>, {'Motion': 44, 'Cause_motion': 49})","['Change_position_on_a_scale', 'Motion', 'Cause_motion', 'Cause_change_of_position_on_a_scale']"
+prefer,88,"defaultdict(<class 'int'>, {'Partiality': 3, 'Preference': 85})","['Preference', 'Partiality', 'Preference', 'Partiality']"
+create,88,"defaultdict(<class 'int'>, {'Creating': 78, 'Cause_to_start': 5, 'Intentionally_create': 4, 'Coming_up_with': 1})","['Creating', 'Intentionally_create', 'Cause_to_start']"
+play,88,"defaultdict(<class 'int'>, {'Competition': 57, 'Cause_to_make_noise': 28, 'Performers_and_roles': 3})",['Competition']
+combine,87,"defaultdict(<class 'int'>, {'Amalgamation': 49, 'Cause_to_amalgamate': 38})",['Cause_to_amalgamate']
+turn,86,"defaultdict(<class 'int'>, {'Cause_change': 41, 'Undergo_change': 43, 'Moving_in_place': 1, 'Cause_to_move_in_place': 1})","['Cause_change', 'Undergo_change', 'Undergo_change', 'Becoming', 'Cause_to_move_in_place', 'Moving_in_place', 'Change_direction', 'Cause_to_move_in_place', 'Moving_in_place', 'Change_direction', 'Moving_in_place', 'Change_direction', 'Cause_to_move_in_place']"
+sit,82,"defaultdict(<class 'int'>, {'Posture': 46, 'Change_posture': 15, 'Being_located': 21})","['Change_posture', 'Placing', 'Posture', 'Placing', 'Posture', 'Change_posture']"
+charge,82,"defaultdict(<class 'int'>, {'Commerce_collect': 81, 'Attack': 1})","['Attack', 'Commerce_collect']"
+call,79,"defaultdict(<class 'int'>, {'Simple_naming': 2, 'Request': 20, 'Labeling': 27, 'Contacting': 5, 'Being_named': 17, 'Deserving': 1, 'Referring_by_name': 7})","['Deserving', 'Contacting', 'Request', 'Labeling', 'Referring_by_name', 'Simple_naming', 'Referring_by_name', 'Referring_by_name']"
+push,74,"defaultdict(<class 'int'>, {'Cause_change_of_position_on_a_scale': 52, 'Cause_motion': 18, 'Subjective_influence': 3, 'Manipulation': 1})","['Cause_motion', 'Manipulation', 'Cause_change_of_position_on_a_scale', 'Cause_change_of_position_on_a_scale', 'Cause_motion', 'Manipulation', 'Manipulation', 'Cause_motion', 'Cause_change_of_position_on_a_scale', 'Cause_change_of_position_on_a_scale', 'Manipulation', 'Cause_motion']"
+understand,71,"defaultdict(<class 'int'>, {'Awareness': 40, 'Grasp': 29, 'Categorization': 2})",[]
+fly,68,"defaultdict(<class 'int'>, {'Ride_vehicle': 33, 'Operate_vehicle': 20, 'Self_motion': 7, 'Bringing': 5, 'Motion': 3})","['Operate_vehicle', 'Ride_vehicle', 'Motion', 'Bringing', 'Self_motion']"
+prepare,68,"defaultdict(<class 'int'>, {'Activity_prepare': 65, 'Cooking_creation': 3})","['Activity_prepare', 'Cooking_creation', 'Activity_prepare', 'Cooking_creation']"
+employ,65,"defaultdict(<class 'int'>, {'Employing': 52, 'Using': 13})","['Using', 'Employing']"
+fix,64,"defaultdict(<class 'int'>, {'Bail_decision': 55, 'Activity_prepare': 9})","['Attaching', 'Activity_prepare']"
+fight,62,"defaultdict(<class 'int'>, {'Hostile_encounter': 40, 'Quarreling': 22})","['Hostile_encounter', 'Quarreling', 'Quarreling', 'Hostile_encounter']"
+stand,60,"defaultdict(<class 'int'>, {'Change_posture': 8, 'Being_located': 7, 'Posture': 39, 'Tolerating': 5, 'Placing': 1})","['Change_posture', 'Being_located', 'Posture', 'Placing', 'Posture', 'Placing', 'Being_located', 'Change_posture']"
+favor,55,"defaultdict(<class 'int'>, {'Preference': 35, 'Partiality': 20})","['Partiality', 'Preference']"
+merge,52,"defaultdict(<class 'int'>, {'Amalgamation': 25, 'Cause_to_amalgamate': 27})","['Cause_to_amalgamate', 'Amalgamation']"
+worry,49,"defaultdict(<class 'int'>, {'Experiencer_obj': 10, 'Emotion_active': 39})","['Emotion_active', 'Experiencer_obj', 'Experiencer_obj', 'Emotion_active']"
+study,48,"defaultdict(<class 'int'>, {'Scrutiny': 40, 'Studying': 5, 'Education_teaching': 3})","['Studying', 'Education_teaching', 'Scrutiny', 'Scrutiny', 'Scrutiny']"
+lift,45,"defaultdict(<class 'int'>, {'Body_movement': 27, 'Theft': 18})","['Theft', 'Body_movement']"
+shake,44,"defaultdict(<class 'int'>, {'Cause_to_move_in_place': 24, 'Experiencer_obj': 6, 'Moving_in_place': 5, 'Body_movement': 9})","['Moving_in_place', 'Body_movement', 'Cause_to_move_in_place', 'Moving_in_place', 'Body_movement', 'Cause_to_move_in_place', 'Experiencer_obj', 'Moving_in_place', 'Body_movement', 'Cause_to_move_in_place', 'Body_movement', 'Moving_in_place', 'Cause_to_move_in_place', 'Moving_in_place', 'Body_movement', 'Cause_to_move_in_place', 'Cause_to_move_in_place', 'Body_movement', 'Moving_in_place']"
+sound,43,"defaultdict(<class 'int'>, {'Make_noise': 4, 'Appearance': 39})","['Appearance', 'Make_noise', 'Make_noise']"
+collect,39,"defaultdict(<class 'int'>, {'Commerce_collect': 26, 'Gathering_up': 13})","['Gathering_up', 'Commerce_collect', 'Gathering_up', 'Gathering_up', 'Gathering_up', 'Gathering_up']"
+run,38,"defaultdict(<class 'int'>, {'Fluidic_motion': 19, 'Impact': 14, 'Cause_motion': 4, 'Self_motion': 1})","['Operating_a_system', 'Leadership', 'Self_motion', 'Operating_a_system', 'Leadership', 'Self_motion', 'Leadership', 'Operating_a_system', 'Fluidic_motion', 'Self_motion', 'Cause_motion']"
+lie,38,"defaultdict(<class 'int'>, {'Posture': 6, 'Change_posture': 4, 'Being_located': 28})","['Posture', 'Change_posture', 'Being_located', 'Posture', 'Change_posture', 'Being_located']"
+count,34,"defaultdict(<class 'int'>, {'Being_in_category': 13, 'Importance': 10, 'Reliance': 11})","['Categorization', 'Being_in_category', 'Categorization', 'Being_in_category', 'Being_in_category', 'Categorization', 'Reliance', 'Importance']"
+cast,34,"defaultdict(<class 'int'>, {'Cause_motion': 25, 'Behind_the_scenes': 5, 'Create_physical_artwork': 3, 'Communicate_categorization': 1})","['Cause_motion', 'Create_physical_artwork', 'Behind_the_scenes']"
+prohibit,33,"defaultdict(<class 'int'>, {'Prohibiting': 30, 'Deny_permission': 3})",[]
+stick,33,"defaultdict(<class 'int'>, {'Being_attached': 29, 'Attaching': 1, 'Placing': 3})","['Being_attached', 'Cause_motion', 'Placing', 'Attaching', 'Cause_motion', 'Being_attached', 'Attaching', 'Placing', 'Cause_motion', 'Placing', 'Being_attached', 'Attaching', 'Cause_motion', 'Being_attached', 'Attaching', 'Placing']"
+gather,32,"defaultdict(<class 'int'>, {'Food_gathering': 1, 'Gathering_up': 21, 'Come_together': 10})","['Gathering_up', 'Gathering_up', 'Gathering_up']"
+split,32,"defaultdict(<class 'int'>, {'Cause_to_fragment': 30, 'Quitting_a_place': 2})","['Cause_to_fragment', 'Cause_to_fragment', 'Cause_to_fragment', 'Quitting_a_place']"
+lease,31,"defaultdict(<class 'int'>, {'Renting_out': 19, 'Renting': 12})",['Renting']
+pull,30,"defaultdict(<class 'int'>, {'Cause_motion': 15, 'Earnings_and_losses': 8, 'Manipulation': 7})","['Manipulation', 'Cause_motion', 'Earnings_and_losses', 'Earnings_and_losses', 'Manipulation', 'Cause_motion', 'Cause_motion', 'Manipulation', 'Earnings_and_losses', 'Earnings_and_losses', 'Manipulation', 'Cause_motion', 'Experience_bodily_harm']"
+discourage,28,"defaultdict(<class 'int'>, {'Experiencer_obj': 6, 'Attempt_suasion': 22})",['Experiencer_obj']
+reveal,28,"defaultdict(<class 'int'>, {'Evidence': 15, 'Reveal_secret': 13})","['Reveal_secret', 'Reveal_secret', 'Evidence', 'Evidence']"
+suspect,27,"defaultdict(<class 'int'>, {'Awareness': 25, 'Suspicion': 2})","['Awareness', 'Suspicion']"
+mount,26,"defaultdict(<class 'int'>, {'Attaching': 2, 'Traversing': 24})","['Traversing', 'Attaching']"
+demonstrate,26,"defaultdict(<class 'int'>, {'Cause_to_perceive': 8, 'Evidence': 11, 'Reasoning': 7})","['Evidence', 'Reasoning']"
+convene,25,"defaultdict(<class 'int'>, {'Gathering_up': 17, 'Assemble': 8})",['Gathering_up']
+pass,24,"defaultdict(<class 'int'>, {'Giving': 21, 'Process_end': 3})","['Process_end', 'Giving', 'Giving', 'Giving']"
+view,24,"defaultdict(<class 'int'>, {'Perception_active': 23, 'Categorization': 1})","['Categorization', 'Perception_active']"
+check,23,"defaultdict(<class 'int'>, {'Scrutiny': 14, 'Inspecting': 9})","['Scrutiny', 'Scrutiny']"
+terminate,22,"defaultdict(<class 'int'>, {'Activity_stop': 20, 'Firing': 2})",['Firing']
+observe,22,"defaultdict(<class 'int'>, {'Statement': 15, 'Becoming_aware': 7})","['Becoming_aware', 'Becoming_aware']"
+note,21,"defaultdict(<class 'int'>, {'Statement': 11, 'Becoming_aware': 10})",['Becoming_aware']
+guess,21,"defaultdict(<class 'int'>, {'Estimating': 11, 'Coming_to_believe': 10})","['Coming_to_believe', 'Coming_to_believe']"
+swell,20,"defaultdict(<class 'int'>, {'Change_position_on_a_scale': 12, 'Cause_change_of_position_on_a_scale': 8})","['Cause_expansion', 'Cause_change_of_position_on_a_scale', 'Expansion', 'Change_position_on_a_scale']"
+assemble,19,"defaultdict(<class 'int'>, {'Building': 6, 'Gathering_up': 9, 'Creating': 4})","['Creating', 'Building', 'Assemble', 'Gathering_up']"
+stretch,18,"defaultdict(<class 'int'>, {'Cause_expansion': 10, 'Expansion': 8})","['Body_movement', 'Expansion', 'Expansion', 'Body_movement']"
+demand,18,"defaultdict(<class 'int'>, {'Request': 13, 'Have_as_requirement': 5})",['Have_as_requirement']
+perceive,18,"defaultdict(<class 'int'>, {'Categorization': 14, 'Becoming_aware': 4})","['Categorization', 'Perception_experience', 'Perception_experience']"
+trust,16,"defaultdict(<class 'int'>, {'Trust': 15, 'Certainty': 1})","['Trust', 'Certainty']"
+quit,14,"defaultdict(<class 'int'>, {'Quitting': 12, 'Activity_stop': 2})",[]
+roll,13,"defaultdict(<class 'int'>, {'Reshaping': 8, 'Cause_motion': 2, 'Motion': 2, 'Moving_in_place': 1})","['Body_movement', 'Mass_motion', 'Motion', 'Cause_motion', 'Reshaping', 'Mass_motion', 'Motion', 'Cause_motion', 'Body_movement', 'Reshaping', 'Reshaping', 'Motion', 'Mass_motion', 'Cause_motion', 'Body_movement', 'Sound_movement', 'Reshaping', 'Sound_movement', 'Body_movement', 'Motion', 'Mass_motion', 'Cause_motion', 'Motion', 'Cause_motion', 'Mass_motion', 'Body_movement', 'Reshaping']"
+ring,12,"defaultdict(<class 'int'>, {'Make_noise': 9, 'Contacting': 3})","['Make_noise', 'Cause_to_make_noise']"
+pack,12,"defaultdict(<class 'int'>, {'Filling': 7, 'Placing': 5})","['Placing', 'Filling']"
+clear,12,"defaultdict(<class 'int'>, {'Verdict': 2, 'Emptying': 6, 'Removing': 4})","['Emptying', 'Removing', 'Removing', 'Emptying', 'Removing', 'Removing', 'Emptying', 'Removing', 'Emptying', 'Removing', 'Emptying']"
+substitute,11,"defaultdict(<class 'int'>, {'Replacing': 10, 'Take_place_of': 1})",['Replacing']
+forbid,11,"defaultdict(<class 'int'>, {'Prohibiting': 6, 'Deny_permission': 5})",[]
+rent,11,"defaultdict(<class 'int'>, {'Renting_out': 5, 'Renting': 3, 'Commerce_buy': 3})",[]
+scream,10,"defaultdict(<class 'int'>, {'Communication_noise': 8, 'Make_noise': 2})","['Communication_noise', 'Make_noise']"
+inspect,10,"defaultdict(<class 'int'>, {'Inspecting': 8, 'Scrutiny': 2})","['Inspecting', 'Inspecting']"
+house,9,"defaultdict(<class 'int'>, {'Provide_lodging': 7, 'Containing': 2})","['Containing', 'Provide_lodging', 'Containing', 'Provide_lodging']"
+drain,8,"defaultdict(<class 'int'>, {'Removing': 5, 'Emptying': 3})","['Emptying', 'Removing', 'Removing', 'Emptying', 'Emptying', 'Removing']"
+hang,8,"defaultdict(<class 'int'>, {'Placing': 7, 'Execution': 1})","['Body_movement', 'Execution', 'Filling', 'Placing', 'Placing', 'Filling', 'Placing', 'Filling']"
+devastate,8,"defaultdict(<class 'int'>, {'Experiencer_obj': 3, 'Destroying': 5})","['Experiencer_obj', 'Destroying']"
+lean,7,"defaultdict(<class 'int'>, {'Change_posture': 4, 'Posture': 3})","['Posture', 'Change_posture', 'Change_posture', 'Posture', 'Placing']"
+expel,7,"defaultdict(<class 'int'>, {'Exclude_member': 4, 'Removing': 3})","['Removing', 'Exclude_member', 'Removing', 'Exclude_member']"
+wrap,7,"defaultdict(<class 'int'>, {'Filling': 6, 'Placing': 1})","['Placing', 'Filling']"
+crush,7,"defaultdict(<class 'int'>, {'Grinding': 2, 'Cause_harm': 5})","['Grinding', 'Reshaping', 'Cause_harm', 'Grinding', 'Cause_harm', 'Reshaping']"
+break,7,"defaultdict(<class 'int'>, {'Cause_harm': 2, 'Experience_bodily_harm': 4, 'Render_nonfunctional': 1})","['Compliance', 'Cause_harm', 'Experience_bodily_harm', 'Cause_to_fragment', 'Cause_harm', 'Cause_to_fragment', 'Experience_bodily_harm', 'Cause_harm', 'Experience_bodily_harm', 'Render_nonfunctional', 'Cause_to_fragment']"
+load,7,"defaultdict(<class 'int'>, {'Filling': 3, 'Placing': 4})","['Placing', 'Filling']"
+unite,7,"defaultdict(<class 'int'>, {'Cause_to_amalgamate': 1, 'Amalgamation': 6})","['Cause_to_amalgamate', 'Amalgamation']"
+confirm,6,"defaultdict(<class 'int'>, {'Evidence': 3, 'Statement': 3})","['Evidence', 'Verification', 'Statement']"
+blow,6,"defaultdict(<class 'int'>, {'Breathing': 4, 'Motion': 2})","['Breathing', 'Breathing', 'Motion']"
+spin,6,"defaultdict(<class 'int'>, {'Processing_materials': 2, 'Cause_to_move_in_place': 2, 'Moving_in_place': 2})","['Processing_materials', 'Perception_body', 'Cause_to_move_in_place', 'Moving_in_place', 'Moving_in_place', 'Cause_to_move_in_place', 'Perception_body', 'Cause_to_move_in_place', 'Moving_in_place', 'Perception_body']"
+strike,5,"defaultdict(<class 'int'>, {'Eventive_affecting': 4, 'Impact': 1})","['Impact', 'Attack', 'Cause_impact', 'Cause_harm', 'Cause_impact', 'Attack', 'Cause_harm', 'Impact', 'Attack', 'Impact', 'Cause_impact', 'Cause_harm', 'Cause_harm', 'Attack', 'Cause_impact', 'Impact']"
+cut,5,"defaultdict(<class 'int'>, {'Removing': 2, 'Cause_change_of_position_on_a_scale': 2, 'Cutting': 1})","['Cause_harm', 'Cutting', 'Experience_bodily_harm', 'Cutting', 'Cause_harm', 'Experience_bodily_harm', 'Cause_harm', 'Cutting', 'Experience_bodily_harm', 'Cause_harm', 'Cutting', 'Experience_bodily_harm', 'Intentional_traversing', 'Change_direction', 'Intentional_traversing', 'Change_direction', 'Change_operational_state']"
+rest,5,"defaultdict(<class 'int'>, {'State_continue': 4, 'Placing': 1})","['Placing', 'State_continue']"
+chop,5,"defaultdict(<class 'int'>, {'Cause_harm': 2, 'Cutting': 3})","['Cutting', 'Cutting', 'Cutting']"
+twist,5,"defaultdict(<class 'int'>, {'Body_movement': 2, 'Manipulate_into_shape': 3})",['Experience_bodily_harm']
+paint,5,"defaultdict(<class 'int'>, {'Communicate_categorization': 4, 'Create_representation': 1})","['Filling', 'Create_representation', 'Create_physical_artwork', 'Create_physical_artwork', 'Create_representation', 'Create_physical_artwork', 'Create_representation']"
+yield,4,"defaultdict(<class 'int'>, {'Surrendering_possession': 1, 'Giving_in': 3})",[]
+cross,4,"defaultdict(<class 'int'>, {'Body_movement': 2, 'Path_shape': 1, 'Traversing': 1})","['Body_movement', 'Path_shape', 'Traversing', 'Body_movement', 'Path_shape', 'Body_movement']"
+convey,4,"defaultdict(<class 'int'>, {'Successfully_communicate_message': 1, 'Bringing': 2, 'Communication': 1})",['Bringing']
+shine,4,"defaultdict(<class 'int'>, {'Light_movement': 3, 'Location_of_light': 1})","['Location_of_light', 'Light_movement']"
+delight,4,"defaultdict(<class 'int'>, {'Experiencer_obj': 2, 'Experiencer_focus': 2})",['Experiencer_obj']
+telegraph,3,"defaultdict(<class 'int'>, {'Communication_means': 2, 'Contacting': 1})",[]
+moan,3,"defaultdict(<class 'int'>, {'Complaining': 1, 'Communication_noise': 1, 'Make_noise': 1})",[]
+cruise,3,"defaultdict(<class 'int'>, {'Self_motion': 2, 'Ride_vehicle': 1})",[]
+cook,3,"defaultdict(<class 'int'>, {'Apply_heat': 2, 'Cooking_creation': 1})","['Cooking_creation', 'Absorb_heat', 'Apply_heat', 'Cooking_creation', 'Absorb_heat', 'Apply_heat', 'Absorb_heat', 'Cooking_creation', 'Apply_heat']"
+pinch,3,"defaultdict(<class 'int'>, {'Manipulation': 2, 'Theft': 1})","['Theft', 'Manipulation']"
+lash,3,"defaultdict(<class 'int'>, {'Cause_harm': 2, 'Attaching': 1})","['Cause_harm', 'Attaching', 'Attaching']"
+taste,3,"defaultdict(<class 'int'>, {'Appearance': 2, 'Perception_active': 1})",['Perception_experience']
+snatch,2,"defaultdict(<class 'int'>, {'Theft': 1, 'Removing': 1})","['Removing', 'Theft', 'Kidnapping', 'Theft', 'Removing']"
+remember,2,"defaultdict(<class 'int'>, {'Remembering_information': 1, 'Remembering_experience': 1})","['Remembering_experience', 'Memory', 'Remembering_information']"
+squeeze,2,"defaultdict(<class 'int'>, {'Manipulation': 1, 'Cause_to_move_in_place': 1})","['Manipulation', 'Cause_to_move_in_place', 'Manipulation', 'Manipulation', 'Cause_to_move_in_place']"
+crouch,2,"defaultdict(<class 'int'>, {'Posture': 1, 'Change_posture': 1})",[]
+wail,2,"defaultdict(<class 'int'>, {'Make_noise': 1, 'Communication_noise': 1})","['Communication_noise', 'Communication_noise', 'Make_noise', 'Communication_noise']"
+encourage,2,"defaultdict(<class 'int'>, {'Attempt_suasion': 1, 'Subjective_influence': 1})",['Subjective_influence']
